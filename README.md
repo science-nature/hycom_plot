@@ -1,1 +1,3 @@
-1
+# install Anaconda 
+prepare conda then
+
