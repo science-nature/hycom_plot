@@ -6,5 +6,6 @@ In conda ,the get.sh  , u can get the lib </br>
 # python plot hycom
 the data is hycom-reanalysis  </br>
 u can get in hycom web</br>
-python3 code fill.py </br>
+https://hycom.org/</br>
+python3 fill.py </br>
 ![image](https://github.com/sony791210/py_hycom_plot/blob/master/pyhycomplot/test.png)</br>
