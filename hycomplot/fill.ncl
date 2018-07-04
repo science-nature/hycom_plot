@@ -56,10 +56,10 @@ begin
 
 
 ;;; show in windows 
-  wks = gsn_open_wks("x11","fvcom_td")
+;  wks = gsn_open_wks("x11","fvcom_td")
 
 ;;; no show save in dir 
-;  wks = gsn_open_wks("png","nclhycom")
+  wks = gsn_open_wks("png","nclhycom")
 
 ;;;
   gsn_define_colormap(wks,"rainbow+gray")
