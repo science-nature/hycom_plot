@@ -11,12 +11,12 @@ https://hycom.org/</br>
 
 # python
 python3 fill.py </br>
-![image](https://github.com/sony791210/py_hycom_plot/blob/master/hycomplot/pyhycom.png)</br>
+![image](https://github.com/sony791210/hycom_plot/blob/master/fill/pyhycom.png)</br>
 
 # Ferret
 ferret -gif <fill.jnl  </br>
-![image](https://github.com/sony791210/py_hycom_plot/blob/master/hycomplot/fthycom.gif)</br>
+![image](https://github.com/sony791210/hycom_plot/blob/master/fill/fthycom.gif)</br>
 
 # NCL
 ncl fill.ncl </br>
-![image](https://github.com/sony791210/py_hycom_plot/blob/master/hycomplot/nclhycom.png)</br>
+![image](https://github.com/sony791210/hycom_plot/blob/master/fill/nclhycom.png)</br>
