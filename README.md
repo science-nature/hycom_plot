@@ -1,5 +1,6 @@
 # install Anaconda ,Ferret ,NCL
 prepare conda then ,the need lib in python3 </br>
+
 In conda ,the get.sh  , u can get the lib </br>
 
 
