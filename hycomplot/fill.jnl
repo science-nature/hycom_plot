@@ -1,0 +1,19 @@
+!first to clean all data
+canc data/all
+
+!use nc data
+use hycomRe.nc
+
+!x is lon , y is lat ,k is water level ,L is time
+shade/set/tit="hycom"/pal=rainbow/x=115:123/y=21:26/k=1/L=1 WATER_TEMP
+go remove_logo
+go unlabel 4
+go unlabel 5
+go unlabel 6
+go margins 0.3 " " " " " "
+ppl fill
+
+
+go land_detail
+!save pic
+frame/file=fthycom.gif
